@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PropelrrExam</string>
+    <string name="age">Age: %s</string>
+    <string-array name="gender">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
